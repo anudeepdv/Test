@@ -50,10 +50,10 @@ Examples: *Glider gun, MSM Breeder*
 
 | Still Lifes | Oscillators | Spaceships |
 |:-----------:|:-----------:|:----------:|
-| ![idle](a.gif) | ![oscillator](a.gif) | ![glider-gun](a.gif) |
+| ![idle](nova.gif) | ![oscillator](a.gif) | ![glider-gun](a.gif) |
 
 #### Simulation of MSM Breeder (Spaceship)
-<img src="a.gif" width="1100" height="600">
+<img src="nova.gif" width="1100" height="600">
 
 ### Visualization of Patterns with Random Inputs
 
