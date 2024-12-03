@@ -50,7 +50,7 @@ Examples: *Glider gun, MSM Breeder*
 
 | Still Lifes | Oscillators | Spaceships |
 |:-----------:|:-----------:|:----------:|
-| ![idle](nova.gif) | ![oscillator](a.gif) | ![glider-gun](a.gif) |
+| ![idle](nova.gif) | ![oscillator](nova.gif) | ![glider-gun](nova.gif) |
 
 #### Simulation of MSM Breeder (Spaceship)
 <img src="nova.gif" width="1100" height="600">
